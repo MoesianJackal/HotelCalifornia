@@ -1,0 +1,2 @@
+# HotelCalifornia
+Mock hotel website.
